@@ -1,1 +1,1 @@
-function vc:Mechanics/tick
+function vc:mechanics/tick
